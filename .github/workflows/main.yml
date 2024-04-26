@@ -1,4 +1,4 @@
-name: CI model to docker hub 
+name: CI model to docker hub
 
 #trigger
 on:
